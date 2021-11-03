@@ -1,0 +1,14 @@
+C:\Users\gabri\source\repos\Criptografia\Criptografia\bin\Debug\netcoreapp3.1\Criptografia.exe
+C:\Users\gabri\source\repos\Criptografia\Criptografia\bin\Debug\netcoreapp3.1\Criptografia.deps.json
+C:\Users\gabri\source\repos\Criptografia\Criptografia\bin\Debug\netcoreapp3.1\Criptografia.runtimeconfig.json
+C:\Users\gabri\source\repos\Criptografia\Criptografia\bin\Debug\netcoreapp3.1\Criptografia.runtimeconfig.dev.json
+C:\Users\gabri\source\repos\Criptografia\Criptografia\bin\Debug\netcoreapp3.1\Criptografia.dll
+C:\Users\gabri\source\repos\Criptografia\Criptografia\bin\Debug\netcoreapp3.1\Criptografia.pdb
+C:\Users\gabri\source\repos\Criptografia\Criptografia\obj\Debug\netcoreapp3.1\Criptografia.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\Criptografia\Criptografia\obj\Debug\netcoreapp3.1\Criptografia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\Criptografia\Criptografia\obj\Debug\netcoreapp3.1\Criptografia.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\Criptografia\Criptografia\obj\Debug\netcoreapp3.1\Criptografia.AssemblyInfo.cs
+C:\Users\gabri\source\repos\Criptografia\Criptografia\obj\Debug\netcoreapp3.1\Criptografia.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\Criptografia\Criptografia\obj\Debug\netcoreapp3.1\Criptografia.dll
+C:\Users\gabri\source\repos\Criptografia\Criptografia\obj\Debug\netcoreapp3.1\Criptografia.pdb
+C:\Users\gabri\source\repos\Criptografia\Criptografia\obj\Debug\netcoreapp3.1\Criptografia.genruntimeconfig.cache
